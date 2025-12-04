@@ -17,7 +17,10 @@ A couple bad actors were discovered trying to breakin to the target machine. <br
 
 <b>KQL Query used on Microsoft Defender for findings on 11-26-2025:</b><br>
 
-<img width="459" height="123" alt="Screenshot 2025-11-26 at 4 32 08 PM" src="https://github.com/user-attachments/assets/726e5989-a36c-42f8-92c5-e268be6395f0" />
+<img width="459" height="123" alt="Screenshot 2025-11-26 at 4 32 08 PM" src="https://github.com/user-attachments/assets/726e5989-a36c-42f8-92c5-e268be6395f0" /> <br>
+
+<b>Query Results:</b><br><br>
+<img width="485" height="224" alt="Screenshot 2025-12-04 at 2 37 38 PM" src="https://github.com/user-attachments/assets/2094e6d4-a5ff-4051-8f2f-7db07ea8919d" />
 
 
 _________
